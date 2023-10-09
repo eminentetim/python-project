@@ -1,0 +1,26 @@
+write al to cal and avg of a given numbers
+
+
+step 1: get the arrays of nunber(input)
+
+step 2: add the numbers together and dived it with the n number of the number in the array (using base operation)
+
+
+display the result to the standard output (print)
+
+
+write and al that determine if a number is prime number
+
+step1: get the number(input)
+
+step2: using opertor (modulus operator)
+
+step3: display the result with (print):
+ count how many vowel sound are there in a given string
+
+
+
+
+
+step 1 get the string
+step 2 writing a logic that check for vowel soundstep 3 print the number of vowel
