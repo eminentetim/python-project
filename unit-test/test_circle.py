@@ -1,8 +1,8 @@
 import unittest
-from circle import circle
+from circles import circle
 from math import pi
 
-class TestCircleArea(unittest.Testcase):
+class TestCircleArea(unittest.TestCase):
 	def test_area(self):
 	# test areas when radius >= 0
 		self.assertAlmostEqual(circle_area(1), pi)
